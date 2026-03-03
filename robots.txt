@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pothosplant.xyz/sitemap.xml
